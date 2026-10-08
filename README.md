@@ -45,7 +45,7 @@ I build backend services and web applications with **Java and Spring Boot**, and
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Spring Boot Customer CRUD](https://github.com/Supun4266/RESTful-Web-Service-) | Customer management web app with create, view, edit and delete, server-side validation and a layered controller/service/repository design | Java 17, Spring Boot 3, Spring Data JPA, Thymeleaf, MySQL |
+| [Spring Boot Customer CRUD](https://github.com/Supun4266/springboot-customer-crud) | Customer management web app with create, view, edit and delete, server-side validation and a layered controller/service/repository design | Java 17, Spring Boot 3, Spring Data JPA, Thymeleaf, MySQL |
 | [mini-ecommerce-project](https://github.com/Supun4266/mini-ecommerce-project) | Online store REST API with JWT auth, user/admin roles, product image uploads to Cloudinary, cart and orders | Node.js, Express, MongoDB, JWT, Joi |
 | [daily-diary-management-system](https://github.com/Supun4266/daily-diary-management-system) | Full-stack journaling app with JWT login and per-user diary entries with mood tracking | React (Vite), Node.js, Express, MongoDB |
 | [mdm-system-php](https://github.com/Supun4266/mdm-system-php) | Master data management for brands, categories and items with role-based access, search, file attachments and CSV/Excel/PDF export | Laravel 12, MySQL, Tailwind |
