@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/supun-tharaka-hettiarchchi-9088022aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:supun4266@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://supun4266.github.io"><img src="https://img.shields.io/badge/Portfolio-supun4266.github.io-111A2E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Java%20%7C%20Spring%20Boot-2ea44f?style=for-the-badge" alt="Open to work"/>
 </p>
 
